@@ -19,9 +19,8 @@ deactivate
 ```
 
 Search for a package:
-```console
-pip search query
-```
+[https://pypi.org/search](https://pypi.org/search)
+
 Install a dependency:
 ```console
 pip install nameofdependency
